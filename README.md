@@ -1,4 +1,4 @@
-![dfdi 2](https://github.com/user-attachments/assets/35d33bf6-d63e-459b-b1d1-51ac114fbd50)# Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
+# Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
 ### NAME : G LEKASRI
 ### REGISTER NUMBER : 212223100025
 ## AIM:
